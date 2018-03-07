@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+.result {
+    border: 1px solid black;
+    margin: 0 auto 20px auto;
+    width: 300px; 
+    padding: 10px;
+}
+
+.wrong {
+    background-color: red;
+}
+
+.correct {
+    background-color: lightgreen;
+}

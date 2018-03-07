@@ -1,0 +1,38 @@
+form {
+    margin: 25px;
+    padding: 25px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+.field {
+    width: 400px;
+    display: block;
+    margin: 10px 0;
+}
+
+.input {
+    float: right;
+}
+
+.comment {
+    margin: 10px 0;
+    height: 100px;
+    width: 400px;
+    display: block;
+}
+
+button {
+    float: right;
+}
+
+.form-results {
+    width: 400px;
+    padding: 25px;
+    border: 1px solid black;
+}
+
+.form-results h1{
+    font-size: 20pt;
+    text-decoration: underline;
+}

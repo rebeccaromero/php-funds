@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th, td {
+    margin: 5px;
+}
+
+.odd-row{
+    background-color: grey;
+}
